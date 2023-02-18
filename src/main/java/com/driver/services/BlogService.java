@@ -4,7 +4,7 @@ import com.driver.models.Blog;
 import com.driver.models.Image;
 import com.driver.models.User;
 import com.driver.repositories.BlogRepository;
-import com.driver.repositories.ImageRepository;
+//import com.driver.repositories.ImageRepository;
 import com.driver.repositories.UserRepository;
 import com.sun.istack.NotNull;
 import org.springframework.beans.factory.annotation.Autowired;
